@@ -1,0 +1,14 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="d:\windows phone 8.1\ruinote\ruinote\obj\debug\intermediatexaml\ruinote.exe" HashGuid="845354ba-961d-113b-efb3-55332fdd8805" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactions.dll" HashGuid="95a94f94-3917-d473-4f7c-18c4bd437046" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactivity.dll" HashGuid="d25f59e6-dd81-900a-0dfc-55b39f6898ef" />
+    <ReferenceAssembly PathName="d:\windows phone 8.1\ruinote\packages\cimbalino.toolkit.core.1.2.6\lib\wpa81\cimbalino.toolkit.core.dll" HashGuid="ed00783b-f6e3-4696-0891-e1dab2bfab29" />
+    <ReferenceAssembly PathName="d:\windows phone 8.1\ruinote\packages\cimbalino.toolkit.1.2.6\lib\wpa81\cimbalino.toolkit.dll" HashGuid="ee367533-7b57-c8df-c460-7a245a3e4954" />
+    <ReferenceAssembly PathName="d:\windows phone 8.1\ruinote\packages\mvvmlightlibs.5.1.1.0\lib\wpa81\galasoft.mvvmlight.dll" HashGuid="d702f8e6-9904-1220-8de7-be8614bf93e8" />
+    <ReferenceAssembly PathName="d:\windows phone 8.1\ruinote\packages\mvvmlightlibs.5.1.1.0\lib\wpa81\galasoft.mvvmlight.extras.dll" HashGuid="f59e2cac-89a1-06f4-bbe7-18857251ef78" />
+    <ReferenceAssembly PathName="d:\windows phone 8.1\ruinote\packages\mvvmlightlibs.5.1.1.0\lib\wpa81\galasoft.mvvmlight.platform.dll" HashGuid="27c4f135-c15f-18a2-cb9f-847748d33bdb" />
+    <ReferenceAssembly PathName="d:\windows phone 8.1\ruinote\packages\livesdk.5.6.2\windowsxaml\microsoft.live.dll" HashGuid="129ce77c-af09-9d5d-b95e-bf89af6739c7" />
+    <ReferenceAssembly PathName="d:\windows phone 8.1\ruinote\packages\commonservicelocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\microsoft.practices.servicelocation.dll" HashGuid="89de7f80-26d8-a17c-5ad9-b855f81ea5b2" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

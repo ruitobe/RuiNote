@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RUI</Machine>
+    <WindowsUser>rhuang</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>97447c87-dcf8-47e5-8189-0bc24363a084</PackageIdentityName>
+    <IntermediateOutputPath>D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\RuiNote.exe">
+      <PackagePath>RuiNote.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Windows Phone 8.1\RuiNote\packages\Cimbalino.Toolkit.Core.1.2.6\lib\wpa81\Cimbalino.Toolkit.Core.dll">
+      <PackagePath>Cimbalino.Toolkit.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Windows Phone 8.1\RuiNote\packages\Cimbalino.Toolkit.1.2.6\lib\wpa81\Cimbalino.Toolkit.dll">
+      <PackagePath>Cimbalino.Toolkit.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Windows Phone 8.1\RuiNote\packages\MvvmLightLibs.5.1.1.0\lib\wpa81\GalaSoft.MvvmLight.dll">
+      <PackagePath>GalaSoft.MvvmLight.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Windows Phone 8.1\RuiNote\packages\MvvmLightLibs.5.1.1.0\lib\wpa81\GalaSoft.MvvmLight.Extras.dll">
+      <PackagePath>GalaSoft.MvvmLight.Extras.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Windows Phone 8.1\RuiNote\packages\MvvmLightLibs.5.1.1.0\lib\wpa81\GalaSoft.MvvmLight.Platform.dll">
+      <PackagePath>GalaSoft.MvvmLight.Platform.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Windows Phone 8.1\RuiNote\packages\LiveSDK.5.6.2\WindowsXAML\Microsoft.Live.dll">
+      <PackagePath>Microsoft.Live.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Windows Phone 8.1\RuiNote\packages\CommonServiceLocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll">
+      <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Windows Phone 8.1\RuiNote\RuiNote\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Windows Phone 8.1\RuiNote\RuiNote\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Windows Phone 8.1\RuiNote\RuiNote\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Windows Phone 8.1\RuiNote\RuiNote\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Windows Phone 8.1\RuiNote\RuiNote\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Windows Phone 8.1\RuiNote\RuiNote\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Windows Phone 8.1\RuiNote\RuiNote\Icons\add.png">
+      <PackagePath>Icons\add.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Windows Phone 8.1\RuiNote\RuiNote\Icons\attach.png">
+      <PackagePath>Icons\attach.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Windows Phone 8.1\RuiNote\RuiNote\Icons\edittext.png">
+      <PackagePath>Icons\edittext.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Windows Phone 8.1\RuiNote\RuiNote\Icons\feature.camera.png">
+      <PackagePath>Icons\feature.camera.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Windows Phone 8.1\RuiNote\RuiNote\Icons\feature.search.png">
+      <PackagePath>Icons\feature.search.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Windows Phone 8.1\RuiNote\RuiNote\Icons\microphone.png">
+      <PackagePath>Icons\microphone.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Windows Phone 8.1\RuiNote\RuiNote\Icons\ruinote.png">
+      <PackagePath>Icons\ruinote.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Windows Phone 8.1\RuiNote\RuiNote\Icons\status.png">
+      <PackagePath>Icons\status.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Windows Phone 8.1\RuiNote\RuiNote\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Windows Phone 8.1\RuiNote\RuiNote\Fonts\LiveSymbol.ttf">
+      <PackagePath>Fonts\LiveSymbol.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\Views\ContentPage.xbf">
+      <PackagePath>Views\ContentPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\Views\MainPage.xbf">
+      <PackagePath>Views\MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\Views\NewNotePage.xbf">
+      <PackagePath>Views\NewNotePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\Views\NoteEditPage.xbf">
+      <PackagePath>Views\NoteEditPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\Views\NoteListPage.xbf">
+      <PackagePath>Views\NoteListPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\Views\NoteViewPage.xbf">
+      <PackagePath>Views\NoteViewPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\RuiNote.xr.xml">
+      <PackagePath>RuiNote.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

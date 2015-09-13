@@ -1,0 +1,176 @@
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\bin\Debug\App.xbf
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\bin\Debug\Views\ContentPage.xbf
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\bin\Debug\Views\MainPage.xbf
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\bin\Debug\Views\NewNotePage.xbf
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\bin\Debug\Views\NoteListPage.xbf
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\bin\Debug\RuiNote.xr.xml
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\bin\Debug\RuiNote.exe
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\bin\Debug\RuiNote.pdb
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\bin\Debug\resources.pri
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\bin\Debug\AppxManifest.xml
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\bin\Debug\RuiNote.build.appxrecipe
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\bin\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\bin\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\bin\Debug\Cimbalino.Toolkit.Core.dll
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\bin\Debug\Cimbalino.Toolkit.dll
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\bin\Debug\Microsoft.Live.dll
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\bin\Debug\Cimbalino.Toolkit.pdb
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\bin\Debug\Cimbalino.Toolkit.xml
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\bin\Debug\Cimbalino.Toolkit.pri
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\bin\Debug\Cimbalino.Toolkit.Core.pdb
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\bin\Debug\Cimbalino.Toolkit.Core.xml
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\bin\Debug\Cimbalino.Toolkit.Core.pri
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\bin\Debug\GalaSoft.MvvmLight.Platform.pri
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\RuiNote.csprojResolveAssemblyReference.cache
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\App.g.i.cs
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\App.g.cs
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\Views\ContentPage.g.i.cs
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\Views\ContentPage.g.cs
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\Views\MainPage.g.i.cs
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\Views\MainPage.g.cs
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\Views\NewNotePage.g.i.cs
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\Views\NewNotePage.g.cs
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\Views\NoteListPage.g.i.cs
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\Views\NoteListPage.g.cs
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\App.xaml
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\Views\ContentPage.xaml
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\Views\MainPage.xaml
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\Views\NewNotePage.xaml
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\App.xbf
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\Views\ContentPage.xbf
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\Views\MainPage.xbf
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\Views\NewNotePage.xbf
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\XamlSaveStateFile.xml
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\Views\NoteListPage.xaml
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\Views\NoteListPage.xbf
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\RuiNote.exe
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\RuiNote.pdb
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\RuiNote.csproj.GenerateResource.Cache
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\priconfig.xml
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\priconfig.xml.intermediate
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\layout.resfiles
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\layout.resfiles.intermediate
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\resources.resfiles
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\resources.resfiles.intermediate
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\pri.resfiles
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\pri.resfiles.intermediate
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\qualifiers.txt
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\qualifiers.txt.intermediate
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\Cimbalino.Toolkit.pri.xml
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\Cimbalino.Toolkit.Core.pri.xml
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\GalaSoft.MvvmLight.Platform.pri.xml
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\ProjectArchitectures.txt
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles.intermediate
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles.intermediate
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles.intermediate
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml
+C:\Users\rhuang\Downloads\RuiNote-master\RuiNote-master\RuiNote\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml.intermediate
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\App.g.i.cs
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\App.g.cs
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\Views\ContentPage.g.i.cs
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\Views\ContentPage.g.cs
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\Views\MainPage.g.i.cs
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\Views\MainPage.g.cs
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\Views\NewNotePage.g.i.cs
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\Views\NewNotePage.g.cs
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\Views\NoteListPage.g.i.cs
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\Views\NoteListPage.g.cs
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\XamlTypeInfo.g.cs
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\App.xaml
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\Views\ContentPage.xaml
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\Views\MainPage.xaml
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\Views\NewNotePage.xaml
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\Views\NoteListPage.xaml
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\App.xbf
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\Views\ContentPage.xbf
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\Views\MainPage.xbf
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\Views\NewNotePage.xbf
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\Views\NoteListPage.xbf
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\XamlSaveStateFile.xml
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\RuiNote.csprojResolveAssemblyReference.cache
+D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\App.xbf
+D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\Views\ContentPage.xbf
+D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\Views\MainPage.xbf
+D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\Views\NewNotePage.xbf
+D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\Views\NoteListPage.xbf
+D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\RuiNote.xr.xml
+D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\RuiNote.exe
+D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\RuiNote.pdb
+D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\resources.pri
+D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\AppxManifest.xml
+D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\RuiNote.build.appxrecipe
+D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\Microsoft.Xaml.Interactions.dll
+D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\Microsoft.Xaml.Interactivity.dll
+D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\Cimbalino.Toolkit.Core.dll
+D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\Cimbalino.Toolkit.dll
+D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\GalaSoft.MvvmLight.dll
+D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\Microsoft.Live.dll
+D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\Cimbalino.Toolkit.pdb
+D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\Cimbalino.Toolkit.xml
+D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\Cimbalino.Toolkit.pri
+D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\Cimbalino.Toolkit.Core.pdb
+D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\Cimbalino.Toolkit.Core.xml
+D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\Cimbalino.Toolkit.Core.pri
+D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\GalaSoft.MvvmLight.xml
+D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\GalaSoft.MvvmLight.Platform.pri
+D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\RuiNote.exe
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\RuiNote.pdb
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\RuiNote.csproj.GenerateResource.Cache
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\priconfig.xml
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\priconfig.xml.intermediate
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\layout.resfiles
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\layout.resfiles.intermediate
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\resources.resfiles
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\resources.resfiles.intermediate
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\pri.resfiles
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\pri.resfiles.intermediate
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\qualifiers.txt
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\qualifiers.txt.intermediate
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\Cimbalino.Toolkit.pri.xml
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\Cimbalino.Toolkit.Core.pri.xml
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\GalaSoft.MvvmLight.Platform.pri.xml
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\ProjectArchitectures.txt
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\Views\NoteViewPage.g.i.cs
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\Views\NoteViewPage.g.cs
+D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\Views\NoteViewPage.xbf
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\Views\NoteViewPage.xaml
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\Views\NoteViewPage.xbf
+D:\Windows Phone 8.1\RuiNote\RuiNote\bin\Debug\Views\NoteEditPage.xbf
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\Views\NoteEditPage.g.i.cs
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\Views\NoteEditPage.g.cs
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\Views\NoteEditPage.xaml
+D:\Windows Phone 8.1\RuiNote\RuiNote\obj\Debug\Views\NoteEditPage.xbf
